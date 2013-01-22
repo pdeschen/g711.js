@@ -1,0 +1,17 @@
+{
+  "author": "Pascal Deschenes <pdeschen@gmail.com>",
+  "name": "g711",
+  "description": "module dealing with g711 pcm data",
+  "version": "0.0.0",
+  "repository": {
+    "url": ""
+  },
+  "scripts": {
+    "test": "mocha test/*.js"
+  },
+  "engines": {
+    "node": "~0.6.2"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
